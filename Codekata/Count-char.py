@@ -1,2 +1,2 @@
-str=input()
-print(len(str)-str.count(" "))
+char=input()
+print(len(char)-char.count(" "))
